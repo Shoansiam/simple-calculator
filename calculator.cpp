@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    // on there you can calcualate with two numbers.
     int a , b;
     int plus, del, mult, devid;
     
